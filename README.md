@@ -31,16 +31,6 @@ Criamos mapas de conhecimento interconectados para cada disciplina, com sub-rede
 Criamos notas interconectadas para criar um **banco de ideias dinâmico**. Cada conceito ou ideia é registrado de forma atômica (uma ideia por nota) e vinculado a outras notas relevantes, criando uma **rede de conhecimento viva**.  
 Caso duas materias tenham tópicos conectados por favor conecte as notas relevantes 
 
-## 👥 Participantes
-
-| Nome                                   | GitHub                                           |
-|----------------------------------------|--------------------------------------------------|
-| Artur Pereira da Silva                 | [Link GitHub](https://github.com/ArtursPereira)  |
-| Emanuel Gomes Peixoto                  | [Link GitHub](https://github.com/EmanuelPeixoto) |
-| Lucas Nathãn Pimentel                  | [Link GitHub](https://github.com/Lucasnthpmt)    |
-| Sophia Hoffman                         | [Link GitHub](https://github.com/MintzyG)        |
-| Zadoque Pires de Deus Souza Carneiro   | [Link GitHub](https://github.com/Zadoque)        |
-
 ## 🔌 Plugins Utilizados
 
 - **Calendar**: Para agendar e visualizar sessões de estudo e prazos

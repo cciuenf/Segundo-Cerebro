@@ -35,7 +35,7 @@ Caso duas materias tenham tópicos conectados por favor conecte as notas relevan
 
 | Nome                                   | GitHub                                           |
 |----------------------------------------|--------------------------------------------------|
-| Artur Pereira da Silva                 | [Link GitHub](#)                                 |
+| Artur Pereira da Silva                 | [Link GitHub](https://github.com/ArtursPereira)  |
 | Emanuel Gomes Peixoto                  | [Link GitHub](https://github.com/EmanuelPeixoto) |
 | Lucas Nathãn Pimentel                  | [Link GitHub](https://github.com/Lucasnthpmt)    |
 | Sophia Hoffman                         | [Link GitHub](https://github.com/MintzyG)        |

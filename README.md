@@ -27,6 +27,10 @@ Agendamos encontros regulares onde cada membro ensina um tópico aos demais, seg
 #### Redes Mentais no Obsidian
 Criamos mapas de conhecimento interconectados para cada disciplina, com sub-redes específicas para P1, P2 e P3, ajudando a visualizar como os conceitos se relacionam.
 
+#### 🌐 **Zettelkasten (Sistema de Cartões de Notas)**  
+Criamos notas interconectadas para criar um **banco de ideias dinâmico**. Cada conceito ou ideia é registrado de forma atômica (uma ideia por nota) e vinculado a outras notas relevantes, criando uma **rede de conhecimento viva**.  
+Caso duas materias tenham tópicos conectados por favor conecte as notas relevantes 
+
 ## 👥 Participantes
 
 | Nome                                   | GitHub                                           |
@@ -88,45 +92,54 @@ Essa pasta deve conter resumos da materia para momentos especificos, como provas
 
 ## 🤝 Como Contribuir
 
+Leia CONTRIBUTING>md
+
 ### Configuração Inicial
 
-1. Clone o repositório:
+### Como editar o projeto
+1. Faça uma fork do repositório:
+   IMG  
+2. Clone o repositorio:
+   IMG
+   IMG
    ```bash
-   git clone bota o linka aqui Sophia
+   git clone SEU_LINK_SSH
    ```
-2. Abra o vault no Obsidian:
+3. Abra o vault no Obsidian:
    - Abra o Obsidian
    - Escolha "Abrir pasta como vault"
    - Navegue até a pasta clonada
+4. Siga O fluxo de trabalho para fazer edições
 
 ### Fluxo de Trabalho
 
-1. Sempre faça `git pull` antes de começar a trabalhar (Religiosamente)
-2. Crie novas notas seguindo os templates disponíveis
+1. Sempre faça `gh repo sync SEU_USUARIO/Segundo-Cerebro` e `git pull` antes de começar a trabalhar (Religiosamente)
+2. Crie novas notas seguindo os templates disponíveis ou edite notas existentes
 3. Commit e push regularmente:
    ```bash
    git add .
-   git commit -m "Adiciona notas sobre [assunto]"
+   git commit -m Titulo da Modificação"
    git push
    ```
-
-### Convenções de Nomenclatura
-
-- Resumos: `assunto-da-aula-DD-MM.md`
-- Projetos: `Nome-do-projeto-author.md`
-
+   Sempre seja descritivo com o titulo, porem o mesmo tem limite de 50 caracteres então caso necessario use uma descrição
+   ```bash
+   git add .
+   git commit -m "Titulo da Modificação" -m "Descrição sem limite de caracteres"
+   git push
+   ```
+4. Sincronize suas mudanças ao repositório principal atraves de uma Pull Request
+   IMG
+   IMG
+   Seja bem descritivo no Titulo e descrição de uma PR com tudo que você contribuiu
+   
 ## 📅 Reuniões
 
-- **Técnica Feynman**: Semanalmente, às [dia e hora], na [local] Temos que decidir ainda
-- **Revisão do Sprint**: Toda sexta para avaliar progresso nas disciplinas ????
-- **Planejamento de Provas**: 2 semanas antes de cada período de avaliações ???
+- Poderemos marcar reunioes pessoalmente caso multiplos alunos desejem tirar duvidas, estudar, ou testar seu conhecimento atraves da tecnica feynman de maneira mais envolvida
 
 ## ❓ FAQ
 
-
-
 **P: Como adicionar uma nova disciplina ao vault?**
-R: Siga o template disponível em `Templates/Nova Disciplina.md`
+R: Copie e cole o template pasta disponivel em `Templates/DisciplinaTemplate/` na pasta Disciplinas/ e altere o nome da pasta para o nome da disciplina e o altere o Home.md de acordo
 
 ---
 

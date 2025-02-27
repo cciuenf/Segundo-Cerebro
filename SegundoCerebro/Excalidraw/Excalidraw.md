@@ -1,0 +1,1 @@
+Pasta criada para armazenar desenhos do excalidraw do projeto, não modifique.

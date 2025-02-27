@@ -108,7 +108,7 @@ Leia CONTRIBUTING>md
 3. Commit e push regularmente:
    ```bash
    git add .
-   git commit -m Titulo da Modificação"
+   git commit -m "Titulo da Modificação"
    git push
    ```
    Sempre seja descritivo com o titulo, porem o mesmo tem limite de 50 caracteres então caso necessario use uma descrição

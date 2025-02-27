@@ -1,0 +1,1 @@
+Pasta para acomodar canvas criados no projeto, não modifique

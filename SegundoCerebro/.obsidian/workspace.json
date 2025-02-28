@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Índice de Duvidas"
             }
-          },
-          {
-            "id": "36539f5dc61347f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assets/Assets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assets"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,8 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce4cad1056fc75f7",
+  "active": "2824d536d83ff282",
   "lastOpenFiles": [
+    "Disciplinas/ProcessosEstocasticos/CadernosIndividuais/ZadoqueCarneiro2025-01/anotacoes/00-definicao-27-02.md",
+    "Disciplinas/ProcessosEstocasticos/CadernosIndividuais/ZadoqueCarneiro2025-01/anotacoes/01-importancia-em-CC-27-02.md",
+    "Assets/Assets.md",
     "Disciplinas/ProcessosEstocasticos/Exercicios/Listas/Lista 1/ResoluçãoDaPessoaX/Lista 1 Resolução - Pessoa X.md",
     "Disciplinas/ProcessosEstocasticos/CadernosIndividuais/ZadoqueCarneiro2025-01/anotacoes/03-tipos-27-02.md",
     "Disciplinas/ProcessosEstocasticos/CadernosIndividuais/ZadoqueCarneiro2025-01/anotacoes/02.5-estacionarios-vs-nao-estacionarios-27-02.md",
@@ -207,8 +195,6 @@
     "Disciplinas/ProcessosEstocasticos/CadernosIndividuais/ZadoqueCarneiro2025-01/anotacoes/01.3-reconhecimento-de-padroes-27-02.md",
     "Disciplinas/ProcessosEstocasticos/CadernosIndividuais/ZadoqueCarneiro2025-01/anotacoes/01.2Inteligencia-artificial-27-02.md",
     "Disciplinas/ProcessosEstocasticos/CadernosIndividuais/ZadoqueCarneiro2025-01/anotacoes/01.1-analise-de-sistemas-27-02.md",
-    "Disciplinas/ProcessosEstocasticos/CadernosIndividuais/ZadoqueCarneiro2025-01/anotacoes/01-importancia-em-CC-27-02.md",
-    "Disciplinas/ProcessosEstocasticos/CadernosIndividuais/ZadoqueCarneiro2025-01/anotacoes/00-definicao-27-02.md",
     "Disciplinas/ProcessosEstocasticos/CadernosIndividuais/ZadoqueCarneiro2025-01/Recursos/PROCESSOS_ESTOCASTICOS_E_TEORIA_DE_FILAS.pdf",
     "Disciplinas/ProcessosEstocasticos/CadernosIndividuais/ZadoqueCarneiro2025-01/Recursos/Exemplo de processo estocástico.png",
     "Disciplinas/ProcessosEstocasticos/Exercicios/Trabalhos/Grupo-YYYY-PERIODO/TrabalhoX.md",
@@ -229,7 +215,6 @@
     "Disciplinas/ProcessosEstocasticos/Exercicios/Trabalhos",
     "Disciplinas/ProcessosEstocasticos/Exercicios/Listas",
     "Disciplinas/ProcessosEstocasticos/Duvidas/Índice de Duvidas.md",
-    "Disciplinas/ProcessosEstocasticos/Duvidas/DuvidaExemplo.md",
     "Disciplinas/ProcessosEstocasticos/CadernosIndividuais/ZadoqueCarneiro2025-01",
     "Canvas/Untitled.canvas",
     "Untitled.canvas"

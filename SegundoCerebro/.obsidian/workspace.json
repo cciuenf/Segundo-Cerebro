@@ -13,30 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/MateriaExemplo/Duvidas/Índice de Duvidas.md",
+                "file": "Templates/MateriaExemplo(ME)/ME-Anotacoes/ME-PessoaExemplo/ME - AnotaçõesDeExemplo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Índice de Duvidas"
+              "title": "ME - AnotaçõesDeExemplo"
             }
           },
           {
-            "id": "36539f5dc61347f4",
+            "id": "3c9a0e170fd3612e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/PE - Zadoque - Grafo de Relações.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "PE - Zadoque - Grafo de Relações"
+            }
+          },
+          {
+            "id": "371188e17f97133b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/MateriaExemplo/ExerciciosMateria/ListasMateria/Lista1Materia/Lista 1 Materia.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lista 1 Materia"
+              "title": "Home"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Materia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,6 +134,16 @@
             }
           },
           {
+            "id": "844160748f406c3c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "b037b6242f3f38f9",
             "type": "leaf",
             "state": {
@@ -162,23 +184,13 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "844160748f406c3c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,44 +204,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36539f5dc61347f4",
+  "active": "371188e17f97133b",
   "lastOpenFiles": [
-    "Templates/MateriaExemplo/ExerciciosMateria/ListasMateria/Lista1Materia/Explicação Lista 1 Materia.md",
-    "Templates/MateriaExemplo/ExerciciosMateria/ListasMateria/Lista1Materia/ResoluçãoDaPessoaX/Lista 1 Resolução - Pessoa X.md",
-    "Templates/MateriaExemplo/DuvidasMateria/Índice de Duvidas Materia.md",
-    "Templates/MateriaExemplo/DuvidasMateria/DuvidaExemplo.md",
-    "Templates/MateriaExemplo/AnotacoesMateria/Índice de Anotações Materia.md",
-    "Templates/MateriaExemplo/AnotacoesMateria/PessoaExemplo/AnotaçõesDeExemplo2.md",
-    "Templates/MateriaExemplo/AnotacoesMateria/PessoaExemplo/AnotaçõesDeExemplo.md",
-    "Templates/MateriaExemplo/ExerciciosMateria/TrabalhosMateria/Grupo-YYYY-PERIODO/TrabalhoX.md",
-    "Templates/MateriaExemplo/MaterialMateria/Cap 1 - Exemplo Primeiro Arquivo.md",
-    "Templates/MateriaExemplo/ResumosMateria/Índice de Resumos Materia.md",
-    "Templates/MateriaExemplo/ResumosMateria/Resumo Prova 1 Materia.md",
-    "Assets/Assets.md",
-    "Assets/pdf.pdf",
-    "Canvas/Canvas.md",
-    "Templates/MateriaExemplo/Índice Matéria Materia.md",
-    "Templates/MateriaExemplo/Duvidas/Untitled.md",
-    "Templates/MateriaExemplo/DuvidasMateria",
-    "Templates/MateriaExemplo/ResumosMateria",
-    "Templates/MateriaExemplo/MaterialMateria/Cap 2 - Exemplo Terceiro Arquivo.md",
-    "Templates/MateriaExemplo/MaterialMateria/Cap 1 - Exemplo Segundo Arquivo.md",
-    "Templates/MateriaExemplo/ExerciciosMateria/TrabalhosMateria/Índice de Trabalhos Materia.md",
-    "Imagens/Imagens.md",
+    "Templates/MateriaExemplo(ME)/Índice Materia Exemplo.md",
+    "Templates/MateriaExemplo(ME)/ME-Anotacoes/ME-PessoaExemplo/ME - AnotaçõesDeExemplo.md",
+    "Templates/MateriaExemplo(ME)/ME-Anotacoes/ME-PessoaExemplo/ME - AnotaçõesDeExemplo2.md",
+    "Templates/MateriaExemplo(ME)/ME-Anotacoes/ME - Índice de Anotações.md",
+    "Templates/MateriaExemplo(ME)/ME-Duvidas/ME - DuvidaExemplo.md",
+    "Templates/MateriaExemplo(ME)/ME-Duvidas/ME - Índice de Duvidas.md",
+    "Templates/MateriaExemplo(ME)/ME-Exercicios/ME-Listas/ME-Lista1/ME-ResoluçãoDaPessoaX/ME - Lista 1 Resolução - Pessoa X.md",
+    "Templates/MateriaExemplo(ME)/ME-Exercicios/ME-Listas/ME-Lista1/ME - Explicação Lista 1.md",
+    "Templates/MateriaExemplo(ME)/ME-Exercicios/ME-Listas/ME-Lista1/ME - Lista 1.md",
+    "Templates/MateriaExemplo(ME)/ME-Exercicios/ME-Trabalhos/ME-Grupo-YYYY-PERIODO/ME - TrabalhoX.md",
+    "Templates/MateriaExemplo(ME)/ME-Exercicios/ME-Trabalhos/ME - Índice de Trabalhos.md",
+    "Templates/MateriaExemplo(ME)/ME-Material/ME - Cap 2 - Exemplo Terceiro Arquivo.md",
+    "Templates/MateriaExemplo(ME)/ME-Material/ME - Cap 1 - Exemplo Segundo Arquivo.md",
+    "Templates/MateriaExemplo(ME)/ME-Material/ME - Cap 1 - Exemplo Primeiro Arquivo.md",
+    "Templates/MateriaExemplo(ME)/ME-Resumos/ME - Índice de Resumos.md",
+    "Templates/MateriaExemplo(ME)/ME-Resumos/ME - Resumo Prova 1.md",
+    "Canvas/PE - Zadoque - BLABLABLA.canvas",
+    "Home.md",
+    "Assets/PE - Zadoque - BLABLABLA.jpeg",
     "Excalidraw/Excalidraw.md",
-    "Imagens",
-    "Templates/MateriaExemplo/ExerciciosMateria/ListasMateria/Lista1Materia/Lista 1 Materia.md",
-    "Templates/MateriaExemplo/ExerciciosMateria/ListasMateria/Lista1Materia/ResoluçãoDaPessoaX",
-    "Templates/MateriaExemplo/AnotacoesMateria/PessoaExemplo",
-    "Templates/MateriaExemplo/ExerciciosMateria/TrabalhosMateria/Grupo-YYYY-PERIODO",
-    "Templates/MateriaExemplo/Exercicios/Trabalhos/TrabalhoX",
-    "Templates/MateriaExemplo/ExerciciosMateria/ListasMateria/Lista1Materia",
-    "Templates/Materia/Untitled.md",
-    "Templates/MateriaExemplo/ExerciciosMateria/ListasMateria",
-    "Templates/Template test.md",
-    "Welcome.md",
-    "Canvas/Untitled.canvas",
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2025-02-25 15.55.37.excalidraw.md"
+    "Excalidraw/PE - Zadoque - Grafo de Relações.md",
+    "Excalidraw/Link.md",
+    "Excalidraw/Drawing 2025-02-28 16.30.01.excalidraw.md",
+    "Templates/MateriaExemplo(ME)/ME-Anotacoes/ME-PessoaExemplo/Assets",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-Zadoque/PE - Anotações De Exemplo.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE - Índice de Anotações.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Duvidas/PE - DuvidaExemplo.md",
+    "Disciplinas/Calculo3(C3)/C3-Anotacoes/C3-Sophia/C3 - AnotaçõesDeExemplo.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/Índice Processos Estocasticos.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios/PE-Listas/PE-Lista1/PE-ResolucaoZadoque",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios/PE-Listas/PE-Lista1",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios/PE-Trabalhos/PE-Grupo-YYYY-PERIODO",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios/PE-Listas",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios/PE-Trabalhos",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-Zadoque",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Material",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Resumos",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios",
+    "Untitled.canvas"
   ]
 }

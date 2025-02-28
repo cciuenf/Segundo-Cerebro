@@ -25,10 +25,14 @@
             "id": "36539f5dc61347f4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Assets/Assets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assets"
             }
           }
         ],
@@ -190,6 +194,9 @@
   },
   "active": "36539f5dc61347f4",
   "lastOpenFiles": [
+    "Assets/pdf.pdf",
+    "Canvas/Canvas.md",
+    "Assets/Assets.md",
     "Templates/MateriaExemplo/Índice Matéria.md",
     "Templates/MateriaExemplo/Resumos/Resumo Prova 1.md",
     "Templates/MateriaExemplo/Resumos/Índice de Resumos.md",
@@ -208,7 +215,6 @@
     "Templates/MateriaExemplo/Exercicios/Trabalhos/Grupo-YYYY-PERIODO/TrabalhoX.md",
     "Imagens/Imagens.md",
     "Excalidraw/Excalidraw.md",
-    "Canvas/Canvas.md",
     "Imagens",
     "Templates/MateriaExemplo/Exercicios/Listas/Lista 1/Lista 1.md",
     "Templates/MateriaExemplo/Exercicios/Listas/Lista 1/Explicação Lista 1.md",

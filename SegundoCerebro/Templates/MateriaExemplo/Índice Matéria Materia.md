@@ -10,12 +10,12 @@ O índice deve possuir links para todos os capítulos da matéria, links para o 
 	- [[Cap 2 - Exemplo Terceiro Arquivo]]
 	- ...
 - Exercícios
-	- [[Lista 1]]
+	- [[Lista 1 Materia]]
 - Trabalhos
-	- [[Índice de Trabalhos]]
+	- [[Índice de Trabalhos Materia]]
 - Anotações
-	- [[Índice de Anotações]]
+	- [[Índice de Anotações Materia]]
 - Resumos
-	- [[Índice de Resumos]]
+	- [[Índice de Resumos Materia]]
 - Duvidas
-	- [[Índice de Duvidas]]
+	- [[Índice de Duvidas Materia]]

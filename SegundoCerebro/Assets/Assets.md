@@ -1,0 +1,1 @@
+Pasta para acomodar quaisquer assets não imagens criados no projeto, não modifique

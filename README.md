@@ -46,7 +46,7 @@ Disciplinas/
 │   ├── Material/
 │   │   ├── Home.MD
 │   │   ├── Capitulo1-Cinematica.md
-│   ├── PastaDeAnotações/
+│   ├── Anotações/
 │   │   ├── AnotaçõesDeAulaArtur.md
 │   │   ├── AnotaçõesDeAulaSophia.md
 │   ├── Exercícios/

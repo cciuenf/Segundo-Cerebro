@@ -14,8 +14,8 @@ O índice deve possuir links para todos os capítulos da matéria, links para o 
 - Trabalhos
 	- [[ME-Exercicios/ME-Trabalhos/ME - Índice de Trabalhos|ME - Índice de Trabalhos]]
 - Anotações
-	- [[ME-Anotacoes/ME - Índice de Anotações|ME - Índice de Anotações]]
+	- [[ME-Anotacoes/ME - Indice de Anotações|ME - Indice de Anotações]]
 - Resumos
-	- [[ME-Resumos/ME - Índice de Resumos|ME - Índice de Resumos]]
+	- [[ME-Resumos/ME - Indice de Resumos|ME - Indice de Resumos]]
 - Duvidas
-	- [[ME-Duvidas/ME - Índice de Duvidas|Me - Índice de Duvidas]]
+	- [[ME-Duvidas/ME - Indice de Duvidas|Me - Índice de Duvidas]]

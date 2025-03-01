@@ -13,42 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/MateriaExemplo(ME)/ME-Anotacoes/ME-PessoaExemplo/ME - AnotaçõesDeExemplo.md",
+                "file": "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE - Indice de Anotações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ME - AnotaçõesDeExemplo"
-            }
-          },
-          {
-            "id": "3c9a0e170fd3612e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/PE - Zadoque - Grafo de Relações.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "PE - Zadoque - Grafo de Relações"
-            }
-          },
-          {
-            "id": "371188e17f97133b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
+              "title": "PE - Indice de Anotações"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -80,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Materia",
+                "query": "tag:#ProcessosEstocásticos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -190,54 +163,57 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "371188e17f97133b",
+  "active": "ce4cad1056fc75f7",
   "lastOpenFiles": [
-    "Templates/MateriaExemplo(ME)/Índice Materia Exemplo.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-ZadoqueCarneiro/PE - Visao-computacional.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-ZadoqueCarneiro/PE - estacionarios vs nao estacionarios.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-ZadoqueCarneiro/PE - espaco de estados.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-ZadoqueCarneiro/PE - enumerabilidade do espaco de estados.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-ZadoqueCarneiro/PE - definicao.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-ZadoqueCarneiro/PE - classificacoes.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-ZadoqueCarneiro/PE - analise-de-sistemas.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios/PE-Listas/PE-Lista1/PE - Explicação Lista 1.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios/PE-Listas/PE-Lista1/PE - Lista 1.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE - Indice de Anotações.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-ZadoqueCarneiro/PE - tempo discreto vs continuo.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-ZadoqueCarneiro/PE - homogeneos vs heterogeneos.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-ZadoqueCarneiro/PE - Inteligencia artificial.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-ZadoqueCarneiro/PE - reconhecimento de padroes.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-ZadoqueCarneiro/PE - redes-de-computadores.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-ZadoqueCarneiro/PE - importancia em CC.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-ZadoqueCarneiro/PE - tipos.md",
+    "2025-03-01.md",
+    "Templates/MateriaExemplo(ME)/Indice Materia Exemplo.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/Indice Processos Estocásticos.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-ZadoqueCarneiro/tipos.md",
     "Templates/MateriaExemplo(ME)/ME-Anotacoes/ME-PessoaExemplo/ME - AnotaçõesDeExemplo.md",
-    "Templates/MateriaExemplo(ME)/ME-Anotacoes/ME-PessoaExemplo/ME - AnotaçõesDeExemplo2.md",
-    "Templates/MateriaExemplo(ME)/ME-Anotacoes/ME - Índice de Anotações.md",
-    "Templates/MateriaExemplo(ME)/ME-Duvidas/ME - DuvidaExemplo.md",
-    "Templates/MateriaExemplo(ME)/ME-Duvidas/ME - Índice de Duvidas.md",
-    "Templates/MateriaExemplo(ME)/ME-Exercicios/ME-Listas/ME-Lista1/ME-ResoluçãoDaPessoaX/ME - Lista 1 Resolução - Pessoa X.md",
-    "Templates/MateriaExemplo(ME)/ME-Exercicios/ME-Listas/ME-Lista1/ME - Explicação Lista 1.md",
-    "Templates/MateriaExemplo(ME)/ME-Exercicios/ME-Listas/ME-Lista1/ME - Lista 1.md",
-    "Templates/MateriaExemplo(ME)/ME-Exercicios/ME-Trabalhos/ME-Grupo-YYYY-PERIODO/ME - TrabalhoX.md",
-    "Templates/MateriaExemplo(ME)/ME-Exercicios/ME-Trabalhos/ME - Índice de Trabalhos.md",
-    "Templates/MateriaExemplo(ME)/ME-Material/ME - Cap 2 - Exemplo Terceiro Arquivo.md",
-    "Templates/MateriaExemplo(ME)/ME-Material/ME - Cap 1 - Exemplo Segundo Arquivo.md",
-    "Templates/MateriaExemplo(ME)/ME-Material/ME - Cap 1 - Exemplo Primeiro Arquivo.md",
-    "Templates/MateriaExemplo(ME)/ME-Resumos/ME - Índice de Resumos.md",
-    "Templates/MateriaExemplo(ME)/ME-Resumos/ME - Resumo Prova 1.md",
+    "Assets/Assets.md",
+    "Assets/PE - ZadqoueCarneiroExemplo.png",
+    "Assets/Exemplo de processo estocástico.png",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Material/PE - Cap 1 - Exemplo Primeiro Arquivo.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios/PE-Listas/PE-Lista1/PE-ResolucaoZadoqueCarneiro/PE - Lista 1 Resolução - ZadoqueCarneiro.md",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios/PE-Trabalhos/PE-Grupo-2025-01/PE - TrabalhoX.md",
     "Canvas/PE - Zadoque - BLABLABLA.canvas",
-    "Home.md",
     "Assets/PE - Zadoque - BLABLABLA.jpeg",
-    "Excalidraw/Excalidraw.md",
-    "Excalidraw/PE - Zadoque - Grafo de Relações.md",
-    "Excalidraw/Link.md",
-    "Excalidraw/Drawing 2025-02-28 16.30.01.excalidraw.md",
     "Templates/MateriaExemplo(ME)/ME-Anotacoes/ME-PessoaExemplo/Assets",
-    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-Zadoque/PE - Anotações De Exemplo.md",
-    "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE - Índice de Anotações.md",
-    "Disciplinas/ProcessosEstocasticos(PE)/PE-Duvidas/PE - DuvidaExemplo.md",
-    "Disciplinas/Calculo3(C3)/C3-Anotacoes/C3-Sophia/C3 - AnotaçõesDeExemplo.md",
-    "Disciplinas/ProcessosEstocasticos(PE)/Índice Processos Estocasticos.md",
     "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios/PE-Listas/PE-Lista1/PE-ResolucaoZadoque",
     "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios/PE-Listas/PE-Lista1",
-    "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios/PE-Trabalhos/PE-Grupo-YYYY-PERIODO",
+    "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios/PE-Trabalhos/PE-Grupo-2025-01",
     "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios/PE-Listas",
     "Disciplinas/ProcessosEstocasticos(PE)/PE-Exercicios/PE-Trabalhos",
     "Disciplinas/ProcessosEstocasticos(PE)/PE-Anotacoes/PE-Zadoque",

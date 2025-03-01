@@ -2,5 +2,6 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "spellcheck": false
 }

@@ -1,6 +1,0 @@
-#Calculo3  #Resumo #Indice 
-Índice para os resumos e descomplicar o grafo de conexões, este arquivo é obrigatório na pasta resumos o índice deve se conectar aqui
-
-## Resumos:
-- Prova 1:
-	- [[C3 - Resumo Prova 1]]
